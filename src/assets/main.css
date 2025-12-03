@@ -6,6 +6,8 @@
 @theme{
   --font-popi: "Poppins", sans-serif;
   --font-inter: "Inter", sans-serif;
+  --shadow-soft: 0 2px 20px rgb(0 0 0 / 0.08);
+
 }
 .container {
   @apply max-w-[1200px] mx-auto;

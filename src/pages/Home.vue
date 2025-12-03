@@ -1,12 +1,10 @@
 <template>
 
-  <Nav></Nav>
   <Banner></Banner>
   <NewArrival title="New Arrivals" className2="hidden" :items="newArrival"></NewArrival>
   <Categories></Categories>
   <NewArrival title="Best Selling" className1="hidden" :items="bestSelling"></NewArrival>
   <ExploreProduct></ExploreProduct>
-  <Footer></Footer>
   
 </template>
 
