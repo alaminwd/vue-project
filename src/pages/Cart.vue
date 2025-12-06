@@ -49,7 +49,8 @@
                         <span>$000 </span>
                     </div>
                     <div class="flex justify-center mt-4">
-                        <button class="text-[16px] font-popi text-[#000] font-medium bg-[#DB4444] text-[#fff] leading-4 rounded-[4px] px-12 py-4" type="submit">Procced to Checkout</button>
+                        <!-- checkout -->
+                        <button class="text-[16px] font-popi text-[#000] font-medium bg-[#DB4444] text-[#fff] leading-4 rounded-[4px] px-12 py-4j" type="submit">Procced to Checkout</button>
                     </div>
                 </div>
             </div>

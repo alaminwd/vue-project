@@ -51,7 +51,8 @@
                  <router-link to="/cart" ><i class="fa-solid fa-cart-shopping text-[#000] text-[16px] w-[32px] h-[32px] text-center !leading-8"></i>
                 <span class=" bg-[#DB4444] text-[#FFFFFF] text-[12px] text w-[16px] h-[16px] rounded-full text-center !leading-4 inline-block font-popi absolute">2</span></router-link>
                 </p>
-                <i class="fa-regular fa-user text-[18px] text-[#000] hover:bg-[#DB4444] w-[32px] h-[32px] rounded-full text-center !leading-8 hover:text-[#fff]"></i>                
+                 <router-link to="/profile" >
+                <i class="fa-regular fa-user text-[18px] text-[#000] hover:bg-[#DB4444] w-[32px] h-[32px] rounded-full text-center !leading-8 hover:text-[#fff]"></i></router-link>          
             </div>
         </div>
       </div>
