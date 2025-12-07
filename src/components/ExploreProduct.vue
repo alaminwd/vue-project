@@ -13,8 +13,8 @@
                     <span class="bg-[#DB4444] absolute text-[#fff] px-3 py-1 top-3 left-3 rounded-[4px] text-[12px] font-popi leading-[18px]">10%</span>
                 </div>
                 <div class="pt-4">
-                    <h3 class="pb-2 text-[16px] text-[#000] font-medium font-popi leading-6">
-                    {{ product.title }}
+                    <h3 class="pb-2 text-[16px] text-[#000] font-medium font-popi leading-6"> <router-link to="/product-details">{{ product.title }}</router-link>
+                    
                     </h3>
                     <p class="text-[16px] font-popi font-medium leading-6 space-x-3">
                     <span class="text-[#DB4444]">${{ product.discountPercentage }}</span>
