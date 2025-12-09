@@ -64,6 +64,24 @@
                     </div>
                 </div>
             </div>
+            <div class="details w-[60%] pt-23">
+                <h2 class="text-[36px] font-inter text-[#111827] font-semibold pb-4 leading-10">Havic HV G-92 Gamepad</h2>
+                <p class="text-[16px] font-inter leading-6 font-normal text-[#4B5563]">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat, consequuntur quibusdam. Sint odit cupiditate fugiat vel, culpa aperiam quas aliquid ullam quis quia sed, cum necessitatibus. Vitae eligendi quod ab?</p>
+                <h3 class="text-[24px] font-inter text-[#111827] font-semibold pb-7 pt-6 leading-8">Features</h3>
+                <p class="text-[16px] font-inter leading-6 font-normal text-[#4B5563]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, autem commodi cum alias odio beatae?</p>
+                <h3 class="text-[24px] font-inter text-[#111827] font-semibold pb-7 pt-6 leading-8">Keyword</h3>
+                <div class="flex gap-x-2">
+                    <a class="flex space-x-1 items-center border-1 border-[#E5E7EB] rounded-[20px] py-2 px-12">
+                        <span>Best Model</span>
+                    </a>
+                    <a class="flex space-x-1 items-center border-1 border-[#E5E7EB] rounded-[20px] py-2 px-12">
+                        <span>Best Model</span>
+                    </a>
+                    <a class="flex space-x-1 items-center border-1 border-[#E5E7EB] rounded-[20px] py-2 px-12">
+                        <span>Best Model</span>
+                    </a>
+                </div>
+            </div>
         </div>
     </section>
 
